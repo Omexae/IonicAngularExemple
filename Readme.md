@@ -1,4 +1,10 @@
 ###
+Si Ionic n'est pas déjà installé :
+###
+```
+npm install -g @ionic/cli
+```
+###
 Installation
 ###
 ```
@@ -10,3 +16,4 @@ Lancer serveur local
 ```
 ionic serve
 ```
+###
